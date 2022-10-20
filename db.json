@@ -1,0 +1,10 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Learn Typescript",
+            "completed": false,
+            "time": "12:00"
+        }
+    ]
+}
